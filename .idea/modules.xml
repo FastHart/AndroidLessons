@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLessons.iml" filepath="$PROJECT_DIR$/AndroidLessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alertdialog/alertdialog.iml" filepath="$PROJECT_DIR$/alertdialog/alertdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andmtr/andmtr.iml" filepath="$PROJECT_DIR$/andmtr/andmtr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dslv-db-demo/dslv-db-demo.iml" filepath="$PROJECT_DIR$/dslv-db-demo/dslv-db-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0081_viewbyid/p0081_viewbyid.iml" filepath="$PROJECT_DIR$/p0081_viewbyid/p0081_viewbyid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0102_activitylistener/p0102_activitylistener.iml" filepath="$PROJECT_DIR$/p0102_activitylistener/p0102_activitylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0231_oneactivitystate/p0231_oneactivitystate.iml" filepath="$PROJECT_DIR$/p0231_oneactivitystate/p0231_oneactivitystate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0701_saveinstancestate/p0701_saveinstancestate.iml" filepath="$PROJECT_DIR$/p0701_saveinstancestate/p0701_saveinstancestate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1361_cursorloader/p1361_cursorloader.iml" filepath="$PROJECT_DIR$/p1361_cursorloader/p1361_cursorloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingtest1/pingtest1.iml" filepath="$PROJECT_DIR$/pingtest1/pingtest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pingtestwithfragments/pingtestwithfragments.iml" filepath="$PROJECT_DIR$/pingtestwithfragments/pingtestwithfragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrolltests/scrolltests.iml" filepath="$PROJECT_DIR$/scrolltests/scrolltests.iml" />
+    </modules>
+  </component>
+</project>
+

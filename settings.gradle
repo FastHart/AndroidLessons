@@ -1,0 +1,1 @@
+include ':app', ':p0031firstproject', ':p0081_viewbyid', ':p0102_activitylistener', ':p0231_oneactivitystate', ':p0701_saveinstancestate', ':andmtr', ':alertdialog', ':p1361_cursorloader', ':pingtest1', ':pingtestwithfragments', ':scrolltests', ':dslv-db-demo'

@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/settings_edit_hosts" android:title="@string/settings_edit_hosts"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/settings_edit_tests" android:title="@string/settings_edit_tests"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/settings_edit_import_export" android:title="@string/settings_edit_import_export"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">AndMTR</string>
+    <string name="title_activity_ping">AndMTR - Ping</string>
+    <string name="title_activity_edit_hosts">AndMTR - Ping</string>
+
+    <string name="log_tag">andmtr_mylog</string>
+
+    <string name="activity_ping">activity_ping</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="settings_edit_hosts">Edit hosts list</string>
+    <string name="settings_edit_tests">Edit tests list</string>
+    <string name="settings_edit_import_export">Import/Export settings to xml</string>
+
+    <string name="butt_add">Add New Address</string>
+    <string name="butt_prefs">Edit Tests List</string>
+    <string name="item_menu">Choose the test</string>
+
+    <string name="button1_start_ping">Start ping</string>
+    <string name="button1_stop_ping">Stop ping</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="dialog_positive_button">YES</string>
+    <string name="dialog_negative_button">NO</string>
+    <string name="dialog_text_delete_host">Delete host?</string>
+    <string name="dialog_text_edit_host">Edit host</string>
+    <string name="dialog_text_host_field">Item name</string>
+    <string name="dialog_text_ip_field">Host name or IP</string>
+    <string name="dialog_edit_host_positive_button">Save</string>
+    <string name="dialog_edit_host_negative_button">Cancel</string>
+
+    <string name="host_deleted">Host deleted</string>
+    <string name="host_updated">Host updated</string>
+    <string name="host_added">Host added</string>
+
+    <string name="error">ERROR</string>
+
+    <string name="button_add_host">Add New Host</string>
+    <string name="button_add_test">Add New Test</string>
+
+
+
+
+
+
+
+</resources>

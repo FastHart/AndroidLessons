@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PingTestWithFragments</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button1_start_ping">Start ping</string>
+    <string name="button1_stop_ping">Stop ping</string>
+</resources>
